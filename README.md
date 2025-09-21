@@ -10,5 +10,4 @@ pip install numpy pandas matplotlib scikit-learn torch ucimlrepo
 ```
 ### Run the jupyter file:
 ```
-jupyter notebook Project4_DeepVsClassical.ipynb
-```
+jupyter notebook Project3_DeepVsClassical (1)
